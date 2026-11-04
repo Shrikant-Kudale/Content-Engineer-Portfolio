@@ -47,6 +47,9 @@ Four samples I wrote myself, covering technical, academic, procedural and plain-
 [![Live](https://img.shields.io/badge/Live_Demo-driftwatch--gen--ai.vercel.app-3D5AFE?style=flat&logo=vercel&logoColor=white)](https://driftwatch-gen-ai.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/Shrikant-Kudale/DriftWatch-GEN-AI)
 
+- 🔗 **Live demo:** [https://driftwatch-gen-ai.vercel.app/](https://driftwatch-gen-ai.vercel.app/)
+- 💻 **Source code:** [https://github.com/Shrikant-Kudale/DriftWatch-GEN-AI](https://github.com/Shrikant-Kudale/DriftWatch-GEN-AI)
+
 When a product changes (a pull request, commit log or ticket), DriftWatch finds which documentation pages have gone stale and proposes surgical fixes. A person approves each fix before a Git patch is exported.
 
 **How it works**
@@ -71,6 +74,9 @@ When a product changes (a pull request, commit log or ticket), DriftWatch finds 
 
 [![Live](https://img.shields.io/badge/Live_Demo-docpilotgenaiproject.vercel.app-0B7A75?style=flat&logo=vercel&logoColor=white)](https://docpilotgenaiproject.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat&logo=github)](https://github.com/Shrikant-Kudale/DocPilot---Tech-Writer-Workbench---GEN-AI-Project)
+
+- 🔗 **Live demo:** [https://docpilotgenaiproject.vercel.app/](https://docpilotgenaiproject.vercel.app/)
+- 💻 **Source code:** [https://github.com/Shrikant-Kudale/DocPilot---Tech-Writer-Workbench---GEN-AI-Project](https://github.com/Shrikant-Kudale/DocPilot---Tech-Writer-Workbench---GEN-AI-Project)
 
 DocPilot tackles three problems writers face with AI: invented details (hallucination), inconsistent style, and not knowing what readers ask that the docs don't answer.
 
